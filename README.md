@@ -8,8 +8,9 @@ Welcome to my GitHub page! Here, you can find various projects that I've worked 
 <a href="https://github.com/H3phaist0s">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=H3phaist0s&show_icons=true&rank_icon=github&theme=transparent" />
 </a>
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H3phaist0s&layout=compact&theme=transparent&card_width=320" />
-
+<a href="https://github.com/H3phaist0s">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H3phaist0s&layout=compact&theme=transparent&card_width=320" />
+</a>
 
 ## 📬 Get in Touch
 
