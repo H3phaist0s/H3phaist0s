@@ -6,7 +6,7 @@ Welcome to my GitHub page! Here, you can find various projects that I've worked 
 
 <p align="center">
   <a href="https://github.com/H3phaist0s">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=H3phaist0s&show_icons=true&theme=radical" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=H3phaist0s&show_icons=true&rank_icon=github&theme=transparent" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H3phaist0s&layout=compact&theme=radical" />
   </a>
 </p>
@@ -15,9 +15,8 @@ Welcome to my GitHub page! Here, you can find various projects that I've worked 
 
 - GitHub: [https://github.com/H3phaist0s](https://github.com/H3phaist0s)
 - LinkedIn: Add your LinkedIn URL here
-- Twitter: Add your Twitter URL here
-- Portfolio: Add your Portfolio URL here
-- Email: Add your Email here
+- Twitter: [https://twitter.com/H3phaistos](https://twitter.com/H3phaistos)
+- Email: admin@script-forge.com
 
 ## 🚀 Quick Links
 
@@ -27,18 +26,9 @@ Welcome to my GitHub page! Here, you can find various projects that I've worked 
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** Javascript, Python, Java, C++
-- **Frameworks:** React, Angular, Node.js
+- **Languages:** Powershell, Python, C++
 - **Databases:** MySQL, MongoDB
 - **Tools:** Docker, Kubernetes, Jenkins
-
-## ⚙️ Recent GitHub Activity
-
-<!--START_SECTION:activity-->
-1. Your recent activity here
-2. Your recent activity here
-3. Your recent activity here
-<!--END_SECTION:activity-->
 
 ## 📈 GitHub Streak Stats
 
