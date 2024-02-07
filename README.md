@@ -4,15 +4,6 @@ Welcome to my GitHub page! Here, you can find various projects that I've worked 
 
 ![](https://komarev.com/ghpvc/?username=H3phaist0s)
 
-## 📊 GitHub Stats
-
-<a href="https://github.com/H3phaist0s">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=H3phaist0s&show_icons=true&rank_icon=github&theme=transparent" />
-</a>
-<a href="https://github.com/H3phaist0s">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H3phaist0s&layout=compact&theme=transparent&card_width=320" />
-</a>
-
 ## 🏢 Work History
 
 I am a tech enthusiast with a diversified background in the IT industry. My journey began as a **Systems Administrator** at a local MSP, where I honed my skills in managing complex systems and networks for a span of two years. My role enabled me to develop a solid foundation in system management, problem-solving, and ensuring the seamless operation of IT infrastructures.
@@ -32,24 +23,14 @@ If you are interested in collaborating or discussing potential opportunities in 
 ## 🛠️ Technologies & Tools
 
 ### Languages
-- **Scripting & Programming:** PowerShell, Python, C++
+- **Scripting & Programming:** PowerShell, Python, C++, Javascript
 - **Query Languages:** SQL (PostgreSQL, MS SQL)
+- **Markup and Styling** HTML, CSS
 
 ### Platforms & Tools
 - **Containerization & Orchestration:** Docker, Kubernetes
 - **Cloud Computing:** AWS CLI and AWS Tools for PowerShell (experienced with management and configuration of services such as VPC, EC2, Security Groups, Route53, RDS, EKS, and more)
 - **Database Management:** Microsoft SQL Server Management Studio, PGAdmin
-
-<!---
-### Penetration Testing Tools
-- **Network Analysis:** Wireshark, Nmap
-- **Vulnerability Scanning:** Nessus, OpenVAS
-- **Web Application Testing:** Burp Suite, OWASP ZAP
-- **Exploit Development:** Metasploit, BeEF
--->
-
-### Penetration Testing Tools
-- CURRENTLY LEARNING
 
 ## 🌟 Skills
 
@@ -57,9 +38,6 @@ If you are interested in collaborating or discussing potential opportunities in 
 - **DevOps:** Streamlining deployment processes, enhancing system reliability, fostering collaboration between development and IT operations teams.
 - **Database Management:** Setting up, configuring, and managing databases such as PostgreSQL and MS SQL, optimizing queries, and ensuring data security and integrity.
 - **Cloud Computing:** Proficient in leveraging AWS services including VPC, EC2, Security Groups, Route53, RDS, ECS, EKS, among others, for comprehensive cloud solutions; skilled in cloud services management, deploying scalable applications, and implementing cloud security best practices.
-<!---
-- **Penetration Testing:** Familiarity with common penetration testing tools and techniques, including network analysis, vulnerability scanning, web application testing, and exploit development.
--->
 - **Scripting & Automation:** Proficiency in scripting languages such as PowerShell and Python for automating routine tasks, data analysis, and system management.
 - **Collaboration & Communication:** Effective collaboration within cross-functional teams, and excellent communication skills facilitating seamless coordination between departments.
 
